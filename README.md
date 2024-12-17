@@ -1,1 +1,1 @@
-The most basic form of the Black-Scholes model.
+The basic form of the Black-Scholes model.
